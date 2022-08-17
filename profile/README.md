@@ -12,6 +12,6 @@ Das Projekt EILD.nrw wird als eines von 18 Projekten der Förderlinie **OERConte
 
 ## Weiterführende Links:
 
-* [Übersichsseite EILD.nrw](https://medien.hs-duesseldorf.de/forschung/forschungsprojekte/eild/Seiten/default.aspx)
+* [Übersichtsseite EILD.nrw](https://medien.hs-duesseldorf.de/forschung/forschungsprojekte/eild/Seiten/default.aspx)
 * [Projektergebnisse](https://medien.hs-duesseldorf.de/forschung/forschungsprojekte/eild/Seiten/Ergebnisse.aspx)
 * [Publikationen](https://medien.hs-duesseldorf.de/forschung/forschungsprojekte/eild/publikationen)
