@@ -1,6 +1,6 @@
 # Entwicklung von Inhalten für die Lehre im Fach Datenbanken in vielfältigen Lernszenarien
 
-![EILD-Logo](/profile/eild_header_logo.png)
+![NRW Logos](/profile/sponsor_logo.jpg)
 
 ## Projektbeschreibung 
 
